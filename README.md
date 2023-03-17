@@ -1,7 +1,8 @@
 # N-gram
 Making n-gram words by using hadoop
 
-Goal of Program
+
+# Goal of Program
 
 Hadoop을 사용하여 주어진 데이터를 이용하여 N-gram Count, RF만들기
 
@@ -23,6 +24,10 @@ Reduce : Map의 output을 aggregate 한 후 total count를 Key가 "*"인 total n
 
 
 
-Used language
+# Used language
 
 Java
+
+
+# My Review
+
